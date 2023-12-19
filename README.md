@@ -1,2 +1,2 @@
-# Hangman
-Classic Hangman Game
+# Temp
+Between semesters project.
